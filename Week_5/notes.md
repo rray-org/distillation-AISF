@@ -22,5 +22,5 @@ Understand the assumptions it depends on.
 
 1. AI-written critiques help humans notice flaws: blog post by Jan Leike, Jeffrey Wu, Catherine Yeh et al. (2022)
 2. AI safety via debate by Geoffrey Irving, Paul Christiano and Dario Amodei (2018)
-3. [Red-teaming language models with language models by Ethan Perez, Saffron Huang, Francis Song et al. (2022)](https://github.com/rray-org/distillation/blob/develop/Week_5/Red-teaming%20language%20models%20with%20language%20models.md)
+3. [Red-teaming language models with language models by Ethan Perez, Saffron Huang, Francis Song et al. (2022)](https://github.com/rray-org/distillation-AISF/blob/main/Week_5/Red-teaming%20language%20models%20with%20language%20models.md)
 4. Robust Feature-Level Adversaries are Interpretability Tools by Casper (2021)
