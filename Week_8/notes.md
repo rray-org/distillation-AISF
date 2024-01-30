@@ -18,10 +18,10 @@ Define the AIXI algorithm, and explain why it is not computable.
 Explain what logical decision theory is.
 Use a causal influence diagram to illustrate the concept of an RL agent having an incentive to influence its environment.
 
-1. [What is AIXI? by Marcus Hutter (2020)](https://github.com/rray-org/distillation/blob/develop/Week_8/What%20is%20AIXI%20by%20Marcus%20Hutter%20(2020).md)
-2. Embedded Agents by Scott Garrabrant and Demski (2018)
-3. Logical decision theory by Eliezer Yudkowsky (2017)
-4. [Logical Induction: Blog post by Nate Soares (2016)](https://github.com/rray-org/distillation/blob/develop/Week_8/Logical%20Induction.md)
-5. Progress on Causal Influence diagrams: blog post by Tom Everitt, Ryan Carey, Lewis Hammond et al. (2021)
-6. Avoiding Side Effects By Considering Future Tasks by Victoria Krakovna, Laurent Orseau, Richard Ngo et al. (2020)
-7. Cooperation, Conflict and Transformative AI by Jesse Clifton (2019)
+1. [What is AIXI? by Marcus Hutter (2020)](https://github.com/rray-org/distillation-AISF/blob/main/Week_8/What%20is%20AIXI%20by%20Marcus%20Hutter%20(2020).md)
+2. [Embedded Agents by Scott Garrabrant and Demski (2018)](https://intelligence.org/2018/10/29/embedded-agents/)
+3. [Logical decision theory by Eliezer Yudkowsky (2017)](https://arbital.com/p/logical_dt/?l=5d6)
+4. [Logical Induction: Blog post by Nate Soares (2016)](https://github.com/rray-org/distillation-AISF/blob/main/Week_8/Logical%20Induction.md)
+5. [Progress on Causal Influence diagrams: blog post by Tom Everitt, Ryan Carey, Lewis Hammond et al. (2021)](https://deepmindsafetyresearch.medium.com/progress-on-causal-influence-diagrams-a7a32180b0d1)
+6. [Avoiding Side Effects By Considering Future Tasks by Victoria Krakovna, Laurent Orseau, Richard Ngo et al. (2020)](https://arxiv.org/abs/2010.07877)
+7. [Cooperation, Conflict and Transformative AI by Jesse Clifton (2019)](https://www.alignmentforum.org/s/p947tK8CoBbdpPtyK/p/KMocAf9jnAKc2jXri)
