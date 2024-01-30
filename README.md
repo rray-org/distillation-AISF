@@ -50,3 +50,5 @@
 5. [Progress on Causal Influence diagrams: blog post by Tom Everitt, Ryan Carey, Lewis Hammond et al. (2021)](https://deepmindsafetyresearch.medium.com/progress-on-causal-influence-diagrams-a7a32180b0d1)
 6. [Avoiding Side Effects By Considering Future Tasks by Victoria Krakovna, Laurent Orseau, Richard Ngo et al. (2020)](https://arxiv.org/abs/2010.07877)
 7. [Cooperation, Conflict and Transformative AI by Jesse Clifton (2019)](https://www.alignmentforum.org/s/p947tK8CoBbdpPtyK/p/KMocAf9jnAKc2jXri)
+
+Contact us in [\U0001F4E8 Telegram](https://t.me/+LlS76hATHDhjNmIy)
