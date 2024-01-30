@@ -9,7 +9,7 @@
 4. [The alignment problem from a deep learning perspective by Richard Ngo, Soeren Mindermann and Lawrence Chan (2022)](https://github.com/rray-org/distillation/blob/develop/Week_2/The%20alignment%20problem%20from%20a%20deep%20learning%20perspective.md)
 5. [Optimal Policies Tend To Seek Power by Alex Turner, Logan Smith, Rohin Shah et al. (2021)](https://github.com/rray-org/distillation/blob/develop/Week_2/Optimal%20Policies%20Tend%20To%20Seek%20Power.md)
 6. [What failure looks like by Paul Christiano (2019)](https://github.com/rray-org/distillation/blob/develop/Week_2/What%20failure%20looks%20like.md)
-7. [Inverse reinforcement learning example by Udacity (2016)](https://github.com/rray-org/distillation/blob/develop/Week_2/Inverse%20reinforcement%20learning%20example.md)
+7. [Inverse reinforcement learning example by Udacity (2016)](https://github.com/rray-org/distillation-AISF/blob/main/Week_2/Inverse%20reinforcement%20learning%20example.md)
 9. [The easy goal inference problem is still hard by Paul Christiano (2018)](https://github.com/rray-org/distillation/blob/develop/Week_2/The%20easy%20goal%20inference%20problem%20is%20still%20hard.md)
 
 **Goal misgeneralisation**
