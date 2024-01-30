@@ -25,8 +25,8 @@ Explain how probes work.
 (For more advanced readers) Explain how probes can be used to improve model outputs, e.g. in the Burns paper.
 Identify the pros and cons of each approach, in order to speculate about how mechanistic interpretability may or may not generalise to more abstract concepts.
 
-1. Zoom In: An Introduction to Circuits by Chris Olah, Nick Cammarata, Ludwig Schubert et al. (2020)
-2. Toy models of superposition by Nelson Elhage, Tristan Hume, Catherine Olsson et al. (2022)
-3. Understanding intermediate layers using linear classifier probes by Guillaume Alain and Yoshua Bengio (2016)
-4. Discovering language model behaviors with model-written evaluations: blog post by Ethan Perez (2022)
-5. Locating and Editing Factual Associations in GPT by Kevin Meng, David Bau, Alex Andonian et al. (2022)
+1. [Zoom In: An Introduction to Circuits by Chris Olah, Nick Cammarata, Ludwig Schubert et al. (2020)](https://distill.pub/2020/circuits/zoom-in/)
+2. [Toy models of superposition by Nelson Elhage, Tristan Hume, Catherine Olsson et al. (2022)](https://transformer-circuits.pub/2022/toy_model/index.html)
+3. [Understanding intermediate layers using linear classifier probes by Guillaume Alain and Yoshua Bengio (2016)](https://arxiv.org/abs/1610.01644)
+4. [Discovering language model behaviors with model-written evaluations: blog post by Ethan Perez (2022)](https://www.alignmentforum.org/posts/yRAo2KEGWenKYZG9K/discovering-language-model-behaviors-with-model-written)
+5. [Locating and Editing Factual Associations in GPT by Kevin Meng, David Bau, Alex Andonian et al. (2022)](https://rome.baulab.info/)
