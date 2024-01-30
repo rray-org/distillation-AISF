@@ -51,5 +51,4 @@
 6. [Avoiding Side Effects By Considering Future Tasks by Victoria Krakovna, Laurent Orseau, Richard Ngo et al. (2020)](https://arxiv.org/abs/2010.07877)
 7. [Cooperation, Conflict and Transformative AI by Jesse Clifton (2019)](https://www.alignmentforum.org/s/p947tK8CoBbdpPtyK/p/KMocAf9jnAKc2jXri)
 
-Contact us in [U0001F4E7
-📨 Telegram](https://t.me/+LlS76hATHDhjNmIy)
+Contact us in [📨 Telegram](https://t.me/+LlS76hATHDhjNmIy)
