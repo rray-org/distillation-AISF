@@ -3,14 +3,14 @@
 Здесь собраны краткие версии статей из курса [AI Safety Fundamentals](https://course.aisafetyfundamentals.com/alignment) от BlueDot Impact. Предполагается, что вы сможете ознакомиться с технической составляющей AI Safety за неделю.
 
 **Reward misspecification and instrumental convergence**
-1. [Specification gaming: the flip side of AI ingenuity by Victoria Krakovna, Jonathan Uesato, Vladimir Mikulik et al. (2020)](https://github.com/rray-org/distillation/blob/develop/Week_2/Specification%20gaming%20the%20flip%20side%20of%20AI%20ingenuity.md)
-2. [Learning from Human Preferences by Paul Christiano, Alex Ray and Dario Amodei (2017)](https://github.com/rray-org/distillation/blob/develop/Week_2/Learning%20from%20human%20preferences.md)
-3. [Learning to Summarize with Human Feedback by Jeffrey Wu, Nisan Stiennon, Daniel Ziegler et al. (2020)](https://github.com/rray-org/distillation/blob/develop/Week_2/Learning%20to%20Summarize%20with%20Human%20Feedback.md)
-4. [The alignment problem from a deep learning perspective by Richard Ngo, Soeren Mindermann and Lawrence Chan (2022)](https://github.com/rray-org/distillation/blob/develop/Week_2/The%20alignment%20problem%20from%20a%20deep%20learning%20perspective.md)
-5. [Optimal Policies Tend To Seek Power by Alex Turner, Logan Smith, Rohin Shah et al. (2021)](https://github.com/rray-org/distillation/blob/develop/Week_2/Optimal%20Policies%20Tend%20To%20Seek%20Power.md)
-6. [What failure looks like by Paul Christiano (2019)](https://github.com/rray-org/distillation/blob/develop/Week_2/What%20failure%20looks%20like.md)
+1. [Specification gaming: the flip side of AI ingenuity by Victoria Krakovna, Jonathan Uesato, Vladimir Mikulik et al. (2020)](https://github.com/rray-org/distillation-AISF/blob/main/Week_2/Specification%20gaming%20the%20flip%20side%20of%20AI%20ingenuity.md)
+2. [Learning from Human Preferences by Paul Christiano, Alex Ray and Dario Amodei (2017)](https://github.com/rray-org/distillation-AISF/blob/main/Week_2/Learning%20from%20human%20preferences.md)
+3. [Learning to Summarize with Human Feedback by Jeffrey Wu, Nisan Stiennon, Daniel Ziegler et al. (2020)](https://github.com/rray-org/distillation-AISF/blob/main/Week_2/Learning%20to%20Summarize%20with%20Human%20Feedback.md)
+4. [The alignment problem from a deep learning perspective by Richard Ngo, Soeren Mindermann and Lawrence Chan (2022)](https://github.com/rray-org/distillation-AISF/blob/main/Week_2/The%20alignment%20problem%20from%20a%20deep%20learning%20perspective.md)
+5. [Optimal Policies Tend To Seek Power by Alex Turner, Logan Smith, Rohin Shah et al. (2021)](https://github.com/rray-org/distillation-AISF/blob/main/Week_2/Optimal%20Policies%20Tend%20To%20Seek%20Power.md)
+6. [What failure looks like by Paul Christiano (2019)](https://github.com/rray-org/distillation-AISF/blob/main/Week_2/What%20failure%20looks%20like.md)
 7. [Inverse reinforcement learning example by Udacity (2016)](https://github.com/rray-org/distillation-AISF/blob/main/Week_2/Inverse%20reinforcement%20learning%20example.md)
-9. [The easy goal inference problem is still hard by Paul Christiano (2018)](https://github.com/rray-org/distillation/blob/develop/Week_2/The%20easy%20goal%20inference%20problem%20is%20still%20hard.md)
+9. [The easy goal inference problem is still hard by Paul Christiano (2018)](https://github.com/rray-org/distillation-AISF/blob/main/Week_2/The%20easy%20goal%20inference%20problem%20is%20still%20hard.md)
 
 **Goal misgeneralisation**
 1. [Goal Misgeneralisation: Why Correct Specifications Aren’t Enough For Correct Goals by Rohin Shah (2022)](https://github.com/rray-org/distillation/blob/develop/Week_3/Goal%20Misgeneralisation%20Why%20Correct%20Specifications.md)
