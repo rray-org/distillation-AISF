@@ -20,7 +20,7 @@ Understand unrestricted adversarial training framework.
 A means of using AI to provide oversight during training.
 Understand the assumptions it depends on.
 
-1. AI-written critiques help humans notice flaws: blog post by Jan Leike, Jeffrey Wu, Catherine Yeh et al. (2022)
-2. AI safety via debate by Geoffrey Irving, Paul Christiano and Dario Amodei (2018)
+1. [AI-written critiques help humans notice flaws: blog post by Jan Leike, Jeffrey Wu, Catherine Yeh et al. (2022)](https://openai.com/blog/critiques/)
+2. [AI safety via debate by Geoffrey Irving, Paul Christiano and Dario Amodei (2018)](https://arxiv.org/abs/1805.00899)
 3. [Red-teaming language models with language models by Ethan Perez, Saffron Huang, Francis Song et al. (2022)](https://github.com/rray-org/distillation-AISF/blob/main/Week_5/Red-teaming%20language%20models%20with%20language%20models.md)
-4. Robust Feature-Level Adversaries are Interpretability Tools by Casper (2021)
+4. [Robust Feature-Level Adversaries are Interpretability Tools by Casper (2021)](https://arxiv.org/abs/2110.03605)
